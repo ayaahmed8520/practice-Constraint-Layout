@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConstraintLayout_test</string>
+    <string name="lakeTahoe">Lake Tahoe</string>
+    <string name="lakeTahoe_information">Blue as a topaz and encircled by majestic
+        peaks,
+        the massive Lake Tahoe straddles the California-Nevada border and is a bucket-list essential.
+        The 22-mile-long lake can fill a record book with its statistics: It’s the 10th deepest lake
+        in the world, the second-deepest in the U.S. after Crater Lake, and boasts 72 miles of shoreline.
+        It’s also one of the purest lakes in the world, with 99.99 percent purity, roughly the same
+        as distilled water.But of course, it’s not Tahoe’s numbers that one remembers after a visit.
+        It’s the sights. An osprey diving into a ripple-less cove, a black bear drinking water at
+        the lake’s edge.</string>
+</resources>
